@@ -1,0 +1,35 @@
+ROSCO COURSE MATERIAL – REVIEWED AND RENAMED
+================================================
+
+Purpose
+-------
+This archive contains the supplied ROSCO training/course material after reviewing the
+PDF and Word-document contents and renaming the files to use the Unit Standard ID,
+the document/course title, and the document type.
+
+The original folder structure has been retained.
+
+Qualification context
+---------------------
+National Certificate: General Security Practice
+SAQA ID: 58577
+NQF Level: 3
+Minimum qualification credits: 124
+
+Document types represented
+--------------------------
+Facilitator Guides
+Learner Guides
+Learner Workbooks
+Learner Workbook Model Answers
+Summative Assessments
+Summative Assessment Model Answers
+
+Important
+---------
+The source material should be treated as reference/source material for the ROSCO
+database rebuild. It contains information relevant to unit standards, learning
+content, assessment activities, model answers, and assessment evidence.
+
+The source ZIP was not modified. This is a renamed working copy.
+

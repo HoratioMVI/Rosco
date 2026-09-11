@@ -19,9 +19,11 @@ bun.lockb
 *.zip
 *.sql
 
-# Data dumps and heavy media
+# Media and heavy data dumps
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+training_material/videos/
 sasseta_repo/
-training_material/
-corse_documents/
-corse_documents2/
-Mentors SLA/
