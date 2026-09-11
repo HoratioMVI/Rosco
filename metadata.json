@@ -1,0 +1,6 @@
+{
+  "name": "ROSCO LMS — SASSETA Document Repository",
+  "description": "LMS for NC: General Security Practice 58577 with integrated SASSETA document linking, qualification reporting, and certificate generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

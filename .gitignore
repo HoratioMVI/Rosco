@@ -1,0 +1,27 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+bun.lock
+bun.lockb
+.env*
+!.env.example
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
+*.db.corrupt_bak
+
+# Large archives and SQL dumps
+*.zip
+*.sql
+
+# Data dumps and heavy media
+sasseta_repo/
+training_material/
+corse_documents/
+corse_documents2/
+Mentors SLA/

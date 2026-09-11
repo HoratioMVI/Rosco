@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /rosco/
+
+  # If backend server is running on port 3000, proxy API requests:
+  # (Uncomment below two lines if mod_proxy is enabled in Apache)
+  # RewriteRule ^api/(.*)$ http://127.0.0.1:3000/api/$1 [P,L]
+
+  # Direct all non-file requests to index.html for Single Page App routing:
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ index.html [L]
+</IfModule>
